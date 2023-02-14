@@ -1,0 +1,176 @@
+    1  touch .gitignore
+    2  git status
+    3  git log
+    4  git -rm history.md
+    5  git branch -d history
+    6  git branch -d milkshake-flavours
+    7  git branch -D milkshake-flavours
+    8  git log
+    9  git -rm -f history.md
+   10  git rm -f history.md
+   11  git rm -f README.md
+   12  git rm -f .gitignore
+   13  git rm -f milkshake-flavours.md
+   14  git status
+   15  git rm -f ignore-me.db
+   16  branch rm -d ignore-me.db
+   17  git add ignore-me.db
+   18  git rm -f ignore-me.db
+   19  git status
+   20  git log
+   21  clear
+   22  git status
+   23  git log
+   24  git log
+   25  git status
+   26  git branch
+   27  git commit -m .gitignore
+   28  clear
+   29  git log
+   30  clear
+   31  ls -a
+   32  nano README.md
+   33  clear
+   34  ls -a
+   35  git init
+   36  ls -a
+   37  touch README.md
+   38  ls -a
+   39  git status
+   40  git log
+   41  git reset --hard HEAD^
+   42  git log
+   43  git reset hard HEAD~4
+   44  git reset --hard HEAD~4
+   45  git log
+   46  git reset --hard HEAD~4
+   47  git log
+   48  git reset --hard HEAD~2
+   49  git reset --hard HEAD~1
+   50  git log
+   51  git reset --hard HEAD^
+   52  git reset --hard HEAD~0
+   53  git log
+   54  git reset --hard HEAD~1
+   55  git rm -f initial commit
+   56  git log
+   57  clear
+   58  git log
+   59  git reset --hard HEAD^
+   60  git reset --hard origin
+   61  git reset --hard initial commit
+   62  git reset --hard HEAD
+   63  git reset HEAD~
+   64  clear
+   65  ls -a
+   66  git status
+   67  git log
+   68  git add
+   69  git add README.md
+   70  git status
+   71  git commit -m "initial commit"
+   72  git config --global user.email "pridebuhle@gmail.com
+   73  git config --global user.name "Buhlebenkosi"
+   74  git commit -m "initial commit"
+   75  git config --global user.email "pridebuhle@gmail.com
+   76  git config --global user.name "Buhlebenkosi"
+   77  git commit -m "initial commit"
+   78  git commit -m "initial commit"
+   79  git add README.md
+   80  git commit -m "initial commit"
+   81  git pull
+   82  git pull
+   83  git reset --hard HEAD~2
+   84  git reset --hard HEAD~3
+   85  git reset --hard HEAD~1
+   86  git reset --hard HEAD~0
+   87  git log
+   88  git checkout HEAD
+   89  git pull
+   90  git status
+   91  git add README.md
+   92  git commit -m "initial commit"
+   93  git pull
+   94  git log
+   95  git reset --hard HEAD~4
+   96  git reset --hard HEAD~3
+   97  GIT LOG
+   98  git log
+   99  git reset --hard HEAD~5
+  100  git reset --hard HEAD~4
+  101  git reset --hard HEAD~3
+  102  git log
+  103  git status
+  104  git log
+  105  git status
+  106  git add README.md
+  107  git commit-m "initial commit"
+  108  git reset --hard HEAD~1
+  109  git reset hard --HEAD~1
+  110  rm -fr .git
+  111  git log
+  112  git status
+  113  git checkout master
+  114  git checkout master
+  115  git log
+  116  git checkout -b master
+  117  git checkout master
+  118  clear
+  119  git init
+  120  git log
+  121  git status
+  122  git rm -f README.md
+  123  git status
+  124  git rm -r -f README.md
+  125  git rm -f README.md
+  126  git rm --cached README.md
+  127  git log
+  128  clear
+  129  git status
+  130  clear
+  131  ls -a
+  132  git init
+  133  ls -a
+  134  git status
+  135  touch README.md
+  136  git log
+  137  git add README.md
+  138  git status
+  139  git rm --cached README.md
+  140  git status
+  141  git commit -m "initial commit"
+  142  git add README.md
+  143  git commit -m "initial commit"
+  144  git log
+  145  nano README.md
+  146  cat README.md
+  147  git status
+  148  git add README.md
+  149  git commit -m "second commit"
+  150  git log
+  151  nano README.md
+  152  cat README.md
+  153  git add README.md
+  154  git commit -m "third commit"
+  155  git log
+  156  git checkout aed88c3a23e94050c05dc42c1b988efc69107d3e
+  157  cat README.md
+  158  git checkout master
+  159  cat README.md
+  160  git branch
+  161  git branch milkshake-flavours
+  162  git branch
+  163  git checkout milkshake-flavours
+  164  git branch
+  165  nano milkshakes.md
+  166  git status
+  167  git add milkshakes.md
+  168  git commit -m "added initial flavours"
+  169  git log
+  170  git checkout master
+  171  git branch history
+  172  git branch
+  173  git checkout history
+  174  git log
+  175  git branch
+  176  history > history.txt
