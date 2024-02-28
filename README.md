@@ -1,2 +1,2 @@
 Git is good.
-I love git.
+I love github.
